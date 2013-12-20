@@ -13,7 +13,7 @@ Simple API to BTC-E Crypto Coin Trading platform
 ### Install
 
 ```
-npm install btce
+npm install btce // ou pas
 ```
 
 ### Init
